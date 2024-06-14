@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Bright
+- 👀 I’m interested in Software Development and building super accessible web apps
+- 🌱 I’m currently learning NextJS
+- 📫 GMAIL: brightudoette@gmail.com
+- ⚡ Fun fact: In love with Science and science-based tips for healthy living
